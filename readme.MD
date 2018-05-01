@@ -28,12 +28,26 @@ Github : https://github.com/Empier
 - Youtube(Lua script) (https://www.youtube.com/watch?v=jQTLsxsOf6Q)
 - Youtube(A star 길찾기 알고리즘 적용) (https://www.youtube.com/watch?v=0y3fS_3_g7A&t=8s)
 
-### MSX
+### Anti-Exploit
 - 기간: 2017/06/12 ~ 2018/03/27
 - 사용기술 : C++, Kernel, C#, hooking, Reversing
-- Github (https://msx올리자)
+- Github (https://github.com/Empier/Anti-Exploit)
 - Youtube (https://www.youtube.com/watch?v=WshxiItLLew)
 
+### Memory Editor
+- 기간 :
+- 사용기술 :
+- Github
+
+### Couple Camera(IOS)
+
+### AOSP Build (Android OS)
+
+### 카카오톡 봇
+
+### 모바일 행위분석 모듈 개발
+
+### 
 
 ## 자격증
 네트워크관리사
