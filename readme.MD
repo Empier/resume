@@ -14,11 +14,15 @@ Github : https://github.com/Empier
 [BOB](https://www.kitribob.kr) - 2기
 - 2012/07/01 ~ 2013/12/14
 
+[발표] 해킹캠프 발표 (패킹된 안드로이드 어플리케이션 분석방법 .feat 소녀전선)  - 16회
+- 2017년 8월
+
+[발표] 코드엔진 발표 (주제: 게임핵과 보안솔루션의 전쟁)
+- 2018년 7월 7일 (예정)
 
 ## 수상
-[정보보호올림피아드 금상]
-[청소년 정보보호경진대회 은상]
 
+[정보보호올림피아드 금상] - 2013년
 
 ## 개인 프로젝트
 
@@ -31,7 +35,7 @@ Github : https://github.com/Empier
 - Youtube(A star 길찾기 알고리즘 적용) (https://www.youtube.com/watch?v=0y3fS_3_g7A&t=8s)
 
 ### Anti-Exploit
-- 기간: 2017/06/12 ~ 2018/03/27
+- 기간: 2017/06/12 ~ 
 - 사용기술 : C++, Kernel, C#, Hooking, Reversing, DLL
 - Github (https://github.com/Empier/Anti-Exploit)
 - Youtube (https://www.youtube.com/watch?v=WshxiItLLew)
@@ -44,7 +48,7 @@ Github : https://github.com/Empier
 ### Couple Camera(IOS)
 - 기간 : 2017/10 ~ 2017/12
 - 사용기술 : Swift3
-- Youtube (영상올리자)
+- Youtube (https://www.youtube.com/watch?v=JC9m3gWCd38)
 
 ### AOSP Build (Android OS)
 - 기간 : 2016/10 ~ 2017/02 (Android 5.0.1)
@@ -56,7 +60,5 @@ Github : https://github.com/Empier
 - 사용기술 : Python, C, Socket, Hooking, DLL
 
 
-
 ## 자격증
 - 네트워크관리사
-- 정보처리산업기사
