@@ -68,15 +68,15 @@ Github : https://github.com/Empier
 ## 팀 프로젝트
 
 ### Web Fuzzer Project
+acunetix 웹 취약점스캐너를 모델로 벤치마킹과 사용자가 직접 RULE을 설정해 스크립트를 만들 수 있게 하였고 커뮤니티 사이트를 열어 다른 유저와 공유하기 쉬운 환경을 제공하였습니다. 
 - 기간: 2013/8 ~ 2013/12
-- acunetix 웹 취약점스캐너를 모델로 벤치마킹과 사용자가 직접 RULE을 설정해 스크립트를 만들 수 있게 하였고 커뮤니티 사이트를 열어 다른 유저와 공유하기 쉬운 환경을 제공하였습니다. 
+- 사용기술: C#, SQL Injection, XSS , Crawl
 
 ### 동적분석 서비스 고도화
-- 기간 : 2014/6 ~ 2014/9
-악성코드의 급격한 증가로 자동분석시스템 도입이 필수가 되었지만, 하지만 비용절감 등의 이유로 대부분의 악성코드 검사에 쓰이는 자동분석 시스템은 가상머신으로 구성되어 있습니다. 악성코드가 진화함에 따라 자동분석시스템을 인식하고 자동분석을 당하지 않기 위해서 가상머신을 탐지하여 악성행위를 하지 않음으로써 동적분석이 어려워지게 됬습니다.
 이 프로젝트는 VME(Virtual Machine Evasion)을 방지하기 위해 가상머신으로 탐지 될 요소를 패치해서 리얼 머신으로 인식되도록 하고, 이러한 기술을 적용한 자동화 분석 시스템을 구축하여 그 서비스를 제공하게 하였습니다. 
-(TSC,TSC,TLB,IDT,TSS,VM Interrupt,Double Fault Exception,
-Event Injection,Control Register 연구)
+(TSC,TSC,TLB,IDT,TSS,VM Interrupt,Double Fault Exception, Event Injection,Control Register 연구)
+- 기간 : 2014/6 ~ 2014/9
+- 사용기술: Reversing
 
 ## 자격증
 - 네트워크관리사
