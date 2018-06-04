@@ -45,7 +45,7 @@ Github : https://github.com/Empier
 - 기간: 2017/06/12 ~ 
 - 사용기술 : C++, Kernel, C#, Hooking, Reversing, DLL
 - Github (https://github.com/Empier/Anti-Exploit)
-- Youtube (https://www.youtube.com/watch?v=WshxiItLLew)
+- Youtube (https://www.youtube.com/watch?v=o-CHEFztYFY)
 
 ### Memory Editor
 커널로부터 타겟프로세스의 메모리를 읽어오고 쓸 수 있는 프로그램 구현
