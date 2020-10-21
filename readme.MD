@@ -1,6 +1,6 @@
 # 이력서
 
-Blog : http://empier.tistory.com
+Blog : https://blog.hack.kr
 
 Github : https://github.com/Empier
 
@@ -8,26 +8,32 @@ Github : https://github.com/Empier
 
 [세인트시큐리티](http://stsc.com)
 - 2015/11/02 ~ 2018/11/09
+- 주요 업무: 악성코드 분석
 
 [NHN](http://nhn.com)
 - 2018/12/03 ~ now
+- 주요 업무: 해킹앱 분석, 안드로이드 보호솔루션 개발, LLVM 개발 
+
+## 보유 기술
+
+- C, C++, 리버싱(Android, iOS , Linux, Windows, MacOS)
 
 ## 활동
 
 [BOB](https://www.kitribob.kr) - 2기
 - 2012/07/01 ~ 2013/12/14
 
+[발표] 지스타 발표 ( 실사례로 알아보는 게임 해킹 대응스토리)
+- Link (https://github.com/Empier/resume/blob/master/Files/G-Star.pdf)
+- 2019/11
+
 [발표] 해킹캠프 발표 (패킹된 안드로이드 어플리케이션 분석방법 .feat 소녀전선)  - 16회
 - 2017/08
 
 [발표] 코드엔진 발표 (주제: 게임핵과 보안솔루션의 전쟁)
-- 2018/07/07 (예정)
-
-[강의] 1팀 1기업 프로젝트 (한세사이버보안고등학교)
-- 2017/09/12 ∼ 2017/12/18
+- 2018/07/07
 
 [자료] 온라인 게임 해킹 기술
-- Continue
 - Link (https://github.com/Empier/resume/blob/master/Files/Online_Game_Hack.hwp)
 
 ## 수상
@@ -56,15 +62,8 @@ Github : https://github.com/Empier
 - 사용기술 : C++, Kernel, C#, DLL
 - Github (https://github.com/Empier/MemoryEditor)
 
-### Couple Camera(IOS)
-아이폰을 사용중인 여자친구에게 깜짝이벤트를 위한 이벤트 앱 구현
-- 기간 : 2017/10 ~ 2017/12
-- 사용기술 : Swift3
-- Youtube (https://www.youtube.com/watch?v=JC9m3gWCd38)
-
 ### AOSP Build (Android OS)
 구글 픽셀 XL2 (Codename: Taimen) 에서 통화 녹음을 하고, 루팅 차단 우회 
-- 기간 : 2016/10 ~ 2017/02 (Android 5.0.1)
 - 기간 : 2018/04 ~ 2018/05 (Android 8.1.0)
 - 사용기술 : 간단한 권한 조정, NDK
 
@@ -72,7 +71,6 @@ Github : https://github.com/Empier
 사용자로부터 커맨드를 입력받아 동작하는 Auto-Bot 구현
 - 기간 : 2016/02 ~  
 - 사용기술 : Python, C, Socket, Hooking, DLL
-
 
 
 ## 팀 프로젝트
@@ -87,11 +85,6 @@ acunetix 웹 취약점스캐너를 모델로 벤치마킹과 사용자가 직접 RULE을 설정해 스크립�
 (TSC,TSC,TLB,IDT,TSS,VM Interrupt,Double Fault Exception, Event Injection,Control Register 연구)
 - 기간 : 2014/6 ~ 2014/9
 - 사용기술: Reversing
-
-## 업무
-악성코드, 안드로이드 어플리케이션, iOS 해킹툴 분석
-안드로이드 보호 솔루션 개발
-PC 보안로그 수집시스템 관리
 
 ## 자격증
 - 정보처리산업기사
