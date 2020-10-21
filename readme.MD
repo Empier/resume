@@ -25,9 +25,10 @@ Github : https://github.com/Empier
 
 [발표] 지스타 발표 ( 실사례로 알아보는 게임 해킹 대응스토리)
 - Link (https://github.com/Empier/resume/blob/master/Files/G-Star.pdf)
+- 기사 : https://www.gamemeca.com/view.php?gid=1601400
 - 2019/11
 
-[발표] 해킹캠프 발표 (패킹된 안드로이드 어플리케이션 분석방법 .feat 소녀전선)  - 16회
+[발표] 해킹캠프 발표 (패킹된 안드로이드 어플리케이션 분석방법)
 - 2017/08
 
 [발표] 코드엔진 발표 (주제: 게임핵과 보안솔루션의 전쟁)
@@ -72,6 +73,9 @@ Github : https://github.com/Empier
 - 기간 : 2016/02 ~  
 - 사용기술 : Python, C, Socket, Hooking, DLL
 
+### 아이폰에서 NFC 로 출입하기
+- 기간: 2020/5 ~ 2020/6
+- Youtube (https://www.youtube.com/watch?v=5vysduuwZXY)
 
 ## 팀 프로젝트
 
